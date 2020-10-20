@@ -30,7 +30,7 @@ We at the KFC believe the key to getting the feral cat population undercontrol i
 - Create and maintain a database of feral cat colonies, local rescue, shelter, and volunteer groups
 - Setup county, city, and neighborhood chapters in a NextDoor style community
 
-**Read More** in our **Project Scope** document.
+**Read More** in our [**Project Scope**](project-scope.md) document.
 
 
 ## Status
